@@ -9,6 +9,7 @@
 #ifndef LIBANGLE_CONSTANTS_H_
 #define LIBANGLE_CONSTANTS_H_
 
+#include <cstddef>
 #include "common/platform.h"
 
 namespace gl
